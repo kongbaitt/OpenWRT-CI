@@ -79,7 +79,7 @@ UPDATE_PACKAGE "quickfile" "sbwml/luci-app-quickfile" "main"
 UPDATE_PACKAGE "timecontrol" "sirpdboy/luci-app-timecontrol" "main"
 UPDATE_PACKAGE "viking" "VIKINGYFY/packages" "main" "" "axonhub gecoosac luci-app-timewol luci-app-wolplus"
 UPDATE_PACKAGE "vnt" "lmq8267/luci-app-vnt" "main"
-
+UPDATE_PACKAGE "luci-app-lucky" "sirpdboy/luci-app-lucky" "main"
 
 UPDATE_PACKAGE "luci-app-daed" "QiuSimons/luci-app-daed" "kix"
 UPDATE_PACKAGE "luci-app-dae" "davidtall/luci-app-dae" "kix"
